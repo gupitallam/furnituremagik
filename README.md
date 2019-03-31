@@ -68,6 +68,3 @@ npm run start
 
 Open your favorite browser, and navigate to http://localhost:4200.
 
-## Contribute
-
-Welcome to contribute this project.  If you have some ideas do not hesitate to file an issue or send a PR directly.
